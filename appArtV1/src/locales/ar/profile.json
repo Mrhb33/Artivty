@@ -1,0 +1,21 @@
+﻿{
+  "profile": {
+    "settings": "الإعدادات",
+    "editProfile": "تعديل الملف",
+    "changeLanguage": "تغيير اللغة",
+    "notifications": "الإشعارات",
+    "verified": "فنان موثق",
+    "needsVerification": "تحتاج إلى 3+ أعمال",
+    "customer": "عميل",
+    "artistDashboard": "لوحة الفنان",
+    "getVerified": "تحقق من الفنان",
+    "verificationText": "قم برفع 3 أعمال على الأقل لتصبح فناناً موثقاً وتبدأ باستقبال الطلبات.",
+    "uploadArtwork": "تحميل عمل جديد",
+    "viewPortfolio": "عرض المعرض",
+    "myOffers": "عروضي",
+    "customerDashboard": "لوحة العميل",
+    "createRequest": "إنشاء طلب جديد",
+    "activeRequests": "الطلبات النشطة",
+    "completedProjects": "المشاريع المكتملة"
+  }
+}

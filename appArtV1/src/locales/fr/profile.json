@@ -1,0 +1,21 @@
+﻿{
+  "profile": {
+    "settings": "Paramètres",
+    "editProfile": "Modifier le profil",
+    "changeLanguage": "Changer de langue",
+    "notifications": "Notifications",
+    "verified": "Artist vérifié",
+    "needsVerification": "Besoin de 3+ œuvres",
+    "customer": "Client",
+    "artistDashboard": "Tableau de bord artiste",
+    "getVerified": "Devenir vérifié",
+    "verificationText": "Téléchargez au moins 3 œuvres pour devenir un artiste vérifié et commencer à recevoir des demandes.",
+    "uploadArtwork": "Téléverser une nouvelle œuvre",
+    "viewPortfolio": "Voir mon portfolio",
+    "myOffers": "Mes offres",
+    "customerDashboard": "Tableau de bord client",
+    "createRequest": "Créer une nouvelle demande",
+    "activeRequests": "Demandes actives",
+    "completedProjects": "Projets terminés"
+  }
+}

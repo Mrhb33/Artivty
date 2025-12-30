@@ -1,0 +1,19 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - /app/__pycache__
+    environment:
+      - MONGODB_URL=mongodb+srv://artivty:DCEK4c069OOhcxA1@cluster0.96ktsr4.mongodb.net/?appName=Cluster0
+      - SECRET_KEY=supersecretkey12345678901234567890123456789012
+    restart: unless-stopped
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+

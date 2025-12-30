@@ -1,0 +1,75 @@
+﻿{
+  "search": {
+    "placeholder": "Search artists, styles, or collections",
+    "tabs": {
+      "artists": {
+        "label": "Artists",
+        "description": "People"
+      },
+      "styles": {
+        "label": "Styles",
+        "description": "Tags"
+      },
+      "collections": {
+        "label": "Collections",
+        "description": "Studios"
+      },
+      "recent": {
+        "label": "Recent",
+        "description": "History"
+      }
+    },
+    "filters": {
+      "title": "Filters",
+      "subtitle": "Refine results",
+      "toggles": {
+        "verified": "Verified artists only",
+        "available": "Available for commissions"
+      },
+      "sections": {
+        "medium": "Medium",
+        "price": "Price range",
+        "response": "Response time"
+      },
+      "mediums": {
+        "any": "All media",
+        "digital": "Digital",
+        "watercolor": "Watercolor",
+        "oil": "Oil"
+      },
+      "priceRanges": {
+        "all": "Any price",
+        "0to500": "Under ",
+        "500to1500": "-.5k",
+        "1500plus": "Above .5k"
+      },
+      "responseTimes": {
+        "any": "Any response",
+        "24h": "< 24h",
+        "48h": "< 48h",
+        "72hplus": "72h+"
+      },
+      "reset": "Reset filters"
+    },
+    "modules": {
+      "curatedTopics": "Curated topics",
+      "trendingStyles": "Trending styles",
+      "suggestedArtists": "Suggested artists",
+      "recentSearches": "Recent searches",
+      "shortQueryHint": "Keep typing to search artists and styles.",
+      "tapToJump": "Tap to jump back in",
+      "noRecent": "No recent searches yet",
+      "suggestedStyles": "Suggested styles",
+      "popularSearches": "Popular searches",
+      "historyHint": "Tap to search",
+      "noHistory": "No history yet. Search to build your recent list."
+    },
+    "idle": {
+      "metrics": {
+        "curatedArtists": "Curated artists",
+        "commissionsDelivered": "Commissions delivered",
+        "avgResponse": "Avg. response"
+      }
+    }
+  }
+}

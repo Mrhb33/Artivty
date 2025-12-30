@@ -1,0 +1,67 @@
+{
+  "app": {
+    "name": "Artivty V1"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "ok": "OK",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Afficher",
+    "back": "Retour",
+    "next": "Suivant",
+    "submit": "Envoyer",
+    "languageChanged": "Langue modifiée",
+    "languageSetTo": "Langue définie sur",
+    "errorLoading": "Une erreur est survenue",
+    "checkBackLater": "Merci de réessayer plus tard",
+    "untitled": "Sans titre",
+    "tryAgain": "Réessayer"
+  },
+  "language": {
+    "english": "Anglais",
+    "arabic": "Arabe",
+    "french": "Français"
+  },
+  "nav": {
+    "home": "Accueil",
+    "search": "Rechercher",
+    "create": "Créer",
+    "jobs": "Métiers",
+    "requests": "Demandes",
+    "profile": "Profil",
+    "activity": "Activité",
+    "gallery": "Galerie",
+    "sendOrder": "Envoyer un ordre",
+    "order": "Commande",
+    "artistProfile": "Profil d'artiste",
+    "requestDetails": "Détails de la demande"
+  },
+  "settings": {
+    "preferences": "Préférences",
+    "title": "Paramètres",
+    "languageRegion": "Langue et région",
+    "notifications": "Notifications",
+    "newOffers": "Nouvelles offres",
+    "messages": "Messages des artistes",
+    "orderStatusUpdates": "Mises à jour de commande",
+    "paymentDelivery": "Paiement et livraison",
+    "account": "Compte",
+    "accountMode": "Mode de compte",
+    "user": "Utilisateur",
+    "artist": "Artiste",
+    "editProfile": "Modifier le profil",
+    "verificationStatus": "Statut de vérification",
+    "verifiedMember": "Membre vérifié",
+    "paymentsLegal": "Paiements et aspects juridiques",
+    "paymentMethods": "Méthodes de paiement",
+    "transactionHistory": "Historique des transactions",
+    "terms": "Conditions d'utilisation",
+    "premiumEdition": "Artivty Édition Premium",
+    "version": "v1.0.8 Stable"
+  }
+}

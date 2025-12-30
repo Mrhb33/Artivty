@@ -1,0 +1,120 @@
+﻿{
+  "tab": {
+    "place": "Passer commande",
+    "orders": "Mes commandes",
+    "history": "Historique"
+  },
+  "section": {
+    "place": {
+      "title": "Créer une commande",
+      "subtitle": "Publiez un brief et recevez des offres d'artistes professionnels."
+    },
+    "history": {
+      "title": "Historique des commandes",
+      "subtitle": "Consultez vos commandes terminées et annulées."
+    }
+  },
+  "stepper": {
+    "titles": {
+      "waiting": "Commandes en attente",
+      "offers": "Nouvelles offres",
+      "progress": "En cours",
+      "delivered": "Livraison"
+    },
+    "subtitles": {
+      "waiting": "Vos demandes sont publiées et attendent une réponse.",
+      "offers": "Les artistes vous ont envoyé des offres pour révision.",
+      "progress": "Projets actifs avec les artistes sélectionnés.",
+      "delivered": "Travail complet prêt pour validation."
+    },
+    "labels": {
+      "waiting": "Attente",
+      "offers": "Offres",
+      "progress": "Progression",
+      "delivered": "Livré"
+    }
+  },
+  "empty": {
+    "waiting": {
+      "title": "Aucune commande en attente",
+      "text": "Vos commandes apparaîtront ici dès que vous en créerez une."
+    },
+    "offers": {
+      "title": "Pas d'offres",
+      "text": "Les offres des artistes seront listées ici pour révision."
+    },
+    "progress": {
+      "title": "Aucun projet actif",
+      "text": "Les projets actifs avec les artistes choisis apparaîtront ici."
+    },
+    "delivered": {
+      "title": "Rien à livrer pour l'instant",
+      "text": "Les travaux livrés prêts à être validés seront affichés ici."
+    },
+    "history": {
+      "title": "Aucune commande terminée",
+      "text": "Les commandes terminées ou annulées apparaîtront ici."
+    },
+    "default": {
+      "title": "Pas encore de commandes",
+      "text": "Vos commandes artistiques apparaîtront ici dès leur création."
+    }
+  },
+  "actions": {
+    "viewDetails": "Voir les détails",
+    "viewProgress": "Voir l'avancement",
+    "reviewDelivery": "Valider la livraison",
+    "reorder": "Commander à nouveau",
+    "editDetails": "Modifier les détails",
+    "reviewOffers": "Réviser les offres"
+  },
+  "form": {
+    "typeOfArt": "Type d'œuvre",
+    "style": "Style",
+    "subject": "Sujet et détails",
+    "details": "Détails de la commande",
+    "size": "Taille",
+    "width": "Largeur",
+    "height": "Hauteur",
+    "unit": "Unité",
+    "specifications": "Spécifications",
+    "referenceImages": "Images de référence",
+    "addReference": "Ajouter des images de référence (optionnel)",
+    "referenceHint": "Téléversez exemples, croquis ou sources d'inspiration",
+    "placeholder": "Décrivez le sujet, les couleurs, l'ambiance, l'arrière-plan, les références...",
+    "selectTypePlaceholder": "Choisissez un type",
+    "selectStylePlaceholder": "Choisissez un style",
+    "modal": {
+      "category": "Choisissez un type d'œuvre",
+      "style": "Choisissez un style",
+      "unit": "Choisissez l'unité"
+    },
+    "modalLabel": {
+      "category": "Type",
+      "style": "Style",
+      "unit": "Unité"
+    },
+    "unitHint": {
+      "digital": "Pour le digital : 2000 pixels ou plus recommandés",
+      "print": "Pour l'impression : utilisez la taille réelle"
+    },
+    "submit": "Envoyer"
+  },
+  "status": {
+    "draft": "Brouillon",
+    "waiting": "En attente",
+    "offers": "{{count}} offres",
+    "in_progress": "En cours",
+    "delivered": "Livré",
+    "cancelled": "Annulé"
+  },
+  "alerts": {
+    "permissionTitle": "Autorisation requise",
+    "permissionMessage": "Autorisez l'accès à vos photos pour télécharger des images de référence.",
+    "limitTitle": "Limite atteinte",
+    "limitMessage": "Vous pouvez téléverser jusqu'à 5 images de référence.",
+    "imageGeneric": "Échec de la sélection de l'image. Réessayez.",
+    "requestSuccess": "Votre demande a été postée !",
+    "requestError": "Échec de la création de la demande. Réessayez."
+  }
+}

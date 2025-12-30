@@ -1,0 +1,120 @@
+﻿{
+  "tab": {
+    "place": "Place Order",
+    "orders": "My Orders",
+    "history": "History"
+  },
+  "section": {
+    "place": {
+      "title": "Create New Order",
+      "subtitle": "Post a brief and get offers from professional artists."
+    },
+    "history": {
+      "title": "Order History",
+      "subtitle": "Review your completed and cancelled orders."
+    }
+  },
+  "stepper": {
+    "titles": {
+      "waiting": "Waiting Orders",
+      "offers": "New Offers",
+      "progress": "In Progress",
+      "delivered": "Delivered Work"
+    },
+    "subtitles": {
+      "waiting": "Your requests are posted and waiting for artists to respond.",
+      "offers": "Artists have submitted offers for your review.",
+      "progress": "Active projects with selected artists.",
+      "delivered": "Completed work ready for review."
+    },
+    "labels": {
+      "waiting": "Waiting",
+      "offers": "Offers",
+      "progress": "Progress",
+      "delivered": "Delivered"
+    }
+  },
+  "empty": {
+    "waiting": {
+      "title": "No waiting orders",
+      "text": "Your art requests will appear here once you place an order."
+    },
+    "offers": {
+      "title": "No offers to review",
+      "text": "Offers from artists will appear here for review."
+    },
+    "progress": {
+      "title": "No active projects",
+      "text": "Active projects with selected artists will appear here."
+    },
+    "delivered": {
+      "title": "Nothing delivered yet",
+      "text": "Delivered work ready for review will appear here."
+    },
+    "history": {
+      "title": "No completed orders",
+      "text": "Completed and cancelled orders will appear here."
+    },
+    "default": {
+      "title": "No orders yet",
+      "text": "Your art commissions will appear here once you place an order."
+    }
+  },
+  "actions": {
+    "viewDetails": "View Details",
+    "viewProgress": "View Progress",
+    "reviewDelivery": "Review Delivery",
+    "reorder": "Reorder",
+    "editDetails": "Edit Details",
+    "reviewOffers": "Review Offers"
+  },
+  "form": {
+    "typeOfArt": "Type of Art",
+    "style": "Style",
+    "subject": "Subject & Detail",
+    "details": "Commission Details",
+    "size": "Size",
+    "width": "Width",
+    "height": "Height",
+    "unit": "Unit",
+    "specifications": "Specifications",
+    "referenceImages": "Reference Images",
+    "addReference": "Add reference images (optional)",
+    "referenceHint": "Upload examples, sketches, or inspiration",
+    "placeholder": "Describe subject, colors, mood, background, references...",
+    "selectTypePlaceholder": "Select type of art",
+    "selectStylePlaceholder": "Select style",
+    "modal": {
+      "category": "Select Type of Art",
+      "style": "Select Style",
+      "unit": "Select Unit"
+    },
+    "modalLabel": {
+      "category": "Type",
+      "style": "Style",
+      "unit": "Unit"
+    },
+    "unitHint": {
+      "digital": "For digital: recommended 2000px+",
+      "print": "For print: choose real size"
+    },
+    "submit": "Submit"
+  },
+  "status": {
+    "draft": "Draft",
+    "waiting": "Waiting",
+    "offers": "{{count}} Offers",
+    "in_progress": "In Progress",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled"
+  },
+  "alerts": {
+    "permissionTitle": "Permission needed",
+    "permissionMessage": "Please grant permission to access your photos to upload reference images.",
+    "limitTitle": "Limit reached",
+    "limitMessage": "You can upload up to 5 reference images.",
+    "imageGeneric": "Failed to select image. Please try again.",
+    "requestSuccess": "Your art request has been posted!",
+    "requestError": "Failed to create request. Please try again."
+  }
+}

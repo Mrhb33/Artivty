@@ -1,0 +1,75 @@
+﻿{
+  "search": {
+    "placeholder": "ابحث عن الفنانين أو الأساليب أو المجموعات",
+    "tabs": {
+      "artists": {
+        "label": "فنانون",
+        "description": "أشخاص"
+      },
+      "styles": {
+        "label": "أنماط",
+        "description": "وسوم"
+      },
+      "collections": {
+        "label": "مجموعات",
+        "description": "استوديوهات"
+      },
+      "recent": {
+        "label": "حديث",
+        "description": "سجل"
+      }
+    },
+    "filters": {
+      "title": "الفلاتر",
+      "subtitle": "صقل النتائج",
+      "toggles": {
+        "verified": "فنانين موثوقين فقط",
+        "available": "متاح للطلبات"
+      },
+      "sections": {
+        "medium": "الوسيط",
+        "price": "نطاق السعر",
+        "response": "زمن الاستجابة"
+      },
+      "mediums": {
+        "any": "كل الوسائط",
+        "digital": "رقمي",
+        "watercolor": "ألوان مائية",
+        "oil": "زيت"
+      },
+      "priceRanges": {
+        "all": "أي سعر",
+        "0to500": "أقل من 500$",
+        "500to1500": "500$-1.5k$",
+        "1500plus": "أعلى من 1.5k$"
+      },
+      "responseTimes": {
+        "any": "أي رد",
+        "24h": "< 24 ساعة",
+        "48h": "< 48 ساعة",
+        "72hplus": "72 ساعة+"
+      },
+      "reset": "إعادة الفلاتر"
+    },
+    "modules": {
+      "curatedTopics": "مواضيع منسقة",
+      "trendingStyles": "أنماط رائجة",
+      "suggestedArtists": "فنانين مقترحين",
+      "recentSearches": "عمليات البحث الحديثة",
+      "shortQueryHint": "تابع الكتابة للبحث عن الفنانين والأنماط.",
+      "tapToJump": "اضغط للعودة",
+      "noRecent": "لا توجد عمليات بحث حديثة بعد",
+      "suggestedStyles": "أنماط مقترحة",
+      "popularSearches": "عمليات البحث الشائعة",
+      "historyHint": "اضغط للبحث",
+      "noHistory": "لا توجد سجلات بعد. ابحث لبناء قائمة حديثة."
+    },
+    "idle": {
+      "metrics": {
+        "curatedArtists": "فنانون منسقون",
+        "commissionsDelivered": "طلبات مُسلمة",
+        "avgResponse": "متوسط الرد"
+      }
+    }
+  }
+}

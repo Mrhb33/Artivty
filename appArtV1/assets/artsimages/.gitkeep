@@ -1,0 +1,7 @@
+# Art Images Directory
+
+Place artwork images here for use in the app.
+
+Supported formats: PNG, JPG, JPEG, WebP
+
+Recommended naming: `artwork-{id}.{ext}` or descriptive names like `sunset-mountains.jpg`

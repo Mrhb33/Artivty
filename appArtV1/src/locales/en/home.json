@@ -1,0 +1,22 @@
+﻿{
+  "home": {
+    "discover": "Discover Art",
+    "subtitle": "Explore amazing artworks from talented artists",
+    "noArtworks": "No artworks available",
+    "checkBackLater": "New artworks are coming soon",
+    "heroTitle": "Gallery",
+    "emptyTitle": "The gallery is empty",
+    "emptySubtitle": "No exhibitions are currently open in your region.",
+    "emptyAction": "Start Commission",
+    "curatedBy": "Curated by",
+    "acquire": "Acquire",
+    "categories": {
+      "all": "All",
+      "paintings": "Paintings",
+      "digital": "Digital",
+      "sculpture": "Sculpture",
+      "photography": "Photography",
+      "abstract": "Abstract"
+    }
+  }
+}

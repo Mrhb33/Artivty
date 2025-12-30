@@ -1,0 +1,67 @@
+{
+  "app": {
+    "name": "Artivty V1"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "languageChanged": "Language changed",
+    "languageSetTo": "Language set to",
+    "errorLoading": "Something went wrong",
+    "checkBackLater": "Please check back later",
+    "untitled": "Untitled",
+    "tryAgain": "Try again"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "Arabic",
+    "french": "Français"
+  },
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "create": "Create",
+    "jobs": "Jobs",
+    "requests": "Requests",
+    "profile": "Profile",
+    "activity": "Activity",
+    "gallery": "Gallery",
+    "sendOrder": "Send Order",
+    "order": "Order",
+    "artistProfile": "Artist Profile",
+    "requestDetails": "Request Details"
+  },
+  "settings": {
+    "preferences": "Preferences",
+    "title": "Settings",
+    "languageRegion": "Language & Region",
+    "notifications": "Notifications",
+    "newOffers": "New offers",
+    "messages": "Messages from artists",
+    "orderStatusUpdates": "Order status updates",
+    "paymentDelivery": "Payment & delivery",
+    "account": "Account",
+    "accountMode": "Account mode",
+    "user": "User",
+    "artist": "Artist",
+    "editProfile": "Edit profile",
+    "verificationStatus": "Verification status",
+    "verifiedMember": "Verified Member",
+    "paymentsLegal": "Payments & Legal",
+    "paymentMethods": "Payment methods",
+    "transactionHistory": "Transaction history",
+    "terms": "Terms of Service",
+    "premiumEdition": "Artivty Premium Edition",
+    "version": "v1.0.8 Stable"
+  }
+}

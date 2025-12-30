@@ -1,0 +1,22 @@
+{
+  "home": {
+    "discover": "اكتشف الفن",
+    "subtitle": "استكشف أعمالاً فنية مدهشة من فنانين موهوبين",
+    "noArtworks": "لا توجد أعمال فنية متاحة",
+    "checkBackLater": "أعمال فنية جديدة في الطريق",
+    "heroTitle": "المعرض",
+    "emptyTitle": "المعرض فارغ",
+    "emptySubtitle": "لا توجد معارض مفتوحة في منطقتك حالياً، تابعنا قريباً.",
+    "emptyAction": "ابدأ طلباً",
+    "curatedBy": "منسق بواسطة",
+    "acquire": "امتلك الآن",
+    "categories": {
+      "all": "الكل",
+      "paintings": "لوحات",
+      "digital": "رقمي",
+      "sculpture": "منحوتات",
+      "photography": "تصوير",
+      "abstract": "تجريدي"
+    }
+  }
+}

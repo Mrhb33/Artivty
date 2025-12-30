@@ -1,0 +1,21 @@
+﻿{
+  "profile": {
+    "settings": "Settings",
+    "editProfile": "Edit Profile",
+    "changeLanguage": "Change Language",
+    "notifications": "Notifications",
+    "verified": "Verified Artist",
+    "needsVerification": "Needs 3+ artworks",
+    "customer": "Customer",
+    "artistDashboard": "Artist Dashboard",
+    "getVerified": "Get Verified",
+    "verificationText": "Upload at least 3 artworks to become a verified artist and start receiving requests.",
+    "uploadArtwork": "Upload New Artwork",
+    "viewPortfolio": "View My Portfolio",
+    "myOffers": "My Offers",
+    "customerDashboard": "Customer Dashboard",
+    "createRequest": "Create New Request",
+    "activeRequests": "Active Requests",
+    "completedProjects": "Completed Projects"
+  }
+}

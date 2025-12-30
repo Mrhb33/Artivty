@@ -1,0 +1,67 @@
+{
+  "app": {
+    "name": "Artivty V1"
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "خطأ",
+    "success": "تم بنجاح",
+    "cancel": "إلغاء",
+    "ok": "حسناً",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تحرير",
+    "view": "عرض",
+    "back": "رجوع",
+    "next": "التالي",
+    "submit": "إرسال",
+    "languageChanged": "تم تغيير اللغة",
+    "languageSetTo": "تم ضبط اللغة على",
+    "errorLoading": "حدث خطأ أثناء التحميل",
+    "checkBackLater": "يرجى المحاولة لاحقاً",
+    "untitled": "بدون عنوان",
+    "tryAgain": "حاول مرة أخرى"
+  },
+  "language": {
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "french": "الفرنسية"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "search": "بحث",
+    "create": "إنشاء",
+    "jobs": "وظائف",
+    "requests": "الطلبات",
+    "profile": "الملف الشخصي",
+    "activity": "النشاط",
+    "gallery": "المعرض",
+    "sendOrder": "إرسال طلب",
+    "order": "طلب",
+    "artistProfile": "ملف الفنان",
+    "requestDetails": "تفاصيل الطلب"
+  },
+  "settings": {
+    "preferences": "التفضيلات",
+    "title": "الإعدادات",
+    "languageRegion": "اللغة والمنطقة",
+    "notifications": "الإشعارات",
+    "newOffers": "عروض جديدة",
+    "messages": "رسائل من الفنانين",
+    "orderStatusUpdates": "تحديثات حالة الطلب",
+    "paymentDelivery": "الدفع والتسليم",
+    "account": "الحساب",
+    "accountMode": "وضع الحساب",
+    "user": "عميل",
+    "artist": "فنان",
+    "editProfile": "تعديل الملف",
+    "verificationStatus": "حالة التحقق",
+    "verifiedMember": "عضو موثّق",
+    "paymentsLegal": "الدفع والقانون",
+    "paymentMethods": "طرق الدفع",
+    "transactionHistory": "سجل المعاملات",
+    "terms": "الشروط والسياسة",
+    "premiumEdition": "إصدار Artivty الفاخر",
+    "version": "الإصدار v1.0.8"
+  }
+}

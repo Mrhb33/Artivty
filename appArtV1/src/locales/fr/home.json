@@ -1,0 +1,22 @@
+﻿{
+  "home": {
+    "discover": "Découvrez l'art",
+    "subtitle": "Explorez des œuvres étonnantes d'artistes talentueux",
+    "noArtworks": "Aucune œuvre disponible",
+    "checkBackLater": "De nouvelles œuvres arrivent bientôt",
+    "heroTitle": "Galerie",
+    "emptyTitle": "La galerie est vide",
+    "emptySubtitle": "Aucune exposition n'est actuellement ouverte dans votre région.",
+    "emptyAction": "Lancer une commande",
+    "curatedBy": "Sélectionné par",
+    "acquire": "Acquérir",
+    "categories": {
+      "all": "Tout",
+      "paintings": "Peintures",
+      "digital": "Numérique",
+      "sculpture": "Sculptures",
+      "photography": "Photographie",
+      "abstract": "Abstrait"
+    }
+  }
+}

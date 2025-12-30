@@ -1,0 +1,75 @@
+﻿{
+  "search": {
+    "placeholder": "Recherchez des artistes, des styles ou des collections",
+    "tabs": {
+      "artists": {
+        "label": "Artistes",
+        "description": "Personnes"
+      },
+      "styles": {
+        "label": "Styles",
+        "description": "Balises"
+      },
+      "collections": {
+        "label": "Collections",
+        "description": "Studios"
+      },
+      "recent": {
+        "label": "Récentes",
+        "description": "Historique"
+      }
+    },
+    "filters": {
+      "title": "Filtres",
+      "subtitle": "Affinez les résultats",
+      "toggles": {
+        "verified": "Artistes vérifiés uniquement",
+        "available": "Disponibles pour commandes"
+      },
+      "sections": {
+        "medium": "Support",
+        "price": "Fourchette de prix",
+        "response": "Délai de réponse"
+      },
+      "mediums": {
+        "any": "Tous supports",
+        "digital": "Numérique",
+        "watercolor": "Aquarelle",
+        "oil": "Huile"
+      },
+      "priceRanges": {
+        "all": "Tous les prix",
+        "0to500": "Moins de 500$",
+        "500to1500": "500$-1,5k$",
+        "1500plus": "Plus de 1,5k$"
+      },
+      "responseTimes": {
+        "any": "Toute réponse",
+        "24h": "< 24h",
+        "48h": "< 48h",
+        "72hplus": "72h+"
+      },
+      "reset": "Réinitialiser les filtres"
+    },
+    "modules": {
+      "curatedTopics": "Sujets sélectionnés",
+      "trendingStyles": "Styles tendances",
+      "suggestedArtists": "Artistes suggérés",
+      "recentSearches": "Recherches récentes",
+      "shortQueryHint": "Continuez à taper pour rechercher artistes et styles.",
+      "tapToJump": "Touchez pour revenir",
+      "noRecent": "Aucune recherche récente pour le moment",
+      "suggestedStyles": "Styles suggérés",
+      "popularSearches": "Recherches populaires",
+      "historyHint": "Touchez pour rechercher",
+      "noHistory": "Pas d'historique. Recherchez pour remplir votre liste."
+    },
+    "idle": {
+      "metrics": {
+        "curatedArtists": "Artistes sélectionnés",
+        "commissionsDelivered": "Commandes livrées",
+        "avgResponse": "Réponse moyenne"
+      }
+    }
+  }
+}
